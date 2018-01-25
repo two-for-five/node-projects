@@ -1,0 +1,13 @@
+{
+  "name": "testing_and_debugging",
+  "version": "1.0.0",
+  "description": "mocha chai testing",
+  "author": "Yifeng Liu",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "char": "^1.0.2",
+    "mocha": "^5.0.0",
+    "nock": "^9.1.6"
+  }
+}
